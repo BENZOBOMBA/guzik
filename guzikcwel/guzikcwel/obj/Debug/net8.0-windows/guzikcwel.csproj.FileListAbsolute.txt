@@ -1,0 +1,17 @@
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\bin\Debug\net8.0-windows\guzikcwel.exe
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\bin\Debug\net8.0-windows\guzikcwel.deps.json
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\bin\Debug\net8.0-windows\guzikcwel.runtimeconfig.json
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\bin\Debug\net8.0-windows\guzikcwel.dll
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\bin\Debug\net8.0-windows\guzikcwel.pdb
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.Form1.resources
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.csproj.GenerateResource.cache
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.AssemblyInfoInputs.cache
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.AssemblyInfo.cs
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.csproj.CoreCompileInputs.cache
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.dll
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\refint\guzikcwel.dll
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.pdb
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.genruntimeconfig.cache
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\ref\guzikcwel.dll
+C:\Users\kubam\source\repos\guzikcwel\guzikcwel\obj\Debug\net8.0-windows\guzikcwel.Properties.Resources.resources
